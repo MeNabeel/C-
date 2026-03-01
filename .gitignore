@@ -1,0 +1,29 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# VS Code files
+.vscode/
+*.code-workspace
+
+# Compiled files
+*.class
+*.dll
+
+# Debug files
+*.pdb
+*.ilk
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
